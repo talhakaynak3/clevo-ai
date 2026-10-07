@@ -7,10 +7,6 @@
 </p>
 
 <p align="center">
-  <a href="https://xn--clvo-cpa.com"><strong>clévo.com →</strong></a>
-</p>
-
-<p align="center">
   <img alt="27 marka" src="https://img.shields.io/badge/marka-27-0b7285">
   <img alt="5607 arıza kaydı" src="https://img.shields.io/badge/ar%C4%B1za_kayd%C4%B1-5607-0b7285">
   <img alt="4 cihaz tipi" src="https://img.shields.io/badge/cihaz_tipi-4-0b7285">
@@ -232,6 +228,7 @@ eledi: `torch` tek başına 496 MB, platform sınırı 250 MB.
 ## Kaynak kodu
 
 Kaynak kodu ve arıza kodu korpusu **tescillidir** ve özel bir depoda durur.
-Teknik ayrıntı, mimari ya da iş birliği için: [clévo.com](https://xn--clvo-cpa.com)
+Teknik ayrıntı, mimari ya da iş birliği için:
+[github.com/talhakaynak3](https://github.com/talhakaynak3)
 
 <p align="center"><sub>© 2026 Talha Kaynak · Tüm hakları saklıdır</sub></p>
